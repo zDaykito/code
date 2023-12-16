@@ -1,0 +1,16 @@
+nombre, id, precio, autor, categoria, capitulos
+ElPrincipito, 001, 12.99, AntoineDeSaintExupery, Ficción, 27
+CienAñosDeSoledad, 002, 14.99, GabrielGarciaMarquez, Ficción, 20
+HarryPotterYSalamanca, 003, 19.99, JKRowling, Fantasía, 24
+JuegoDeTronos, 004, 17.99, GeorgeRRMartin, Fantasía, 73
+DonQuijoteDeLaMancha, 005, 9.99, MiguelDeCervantes, Clásico, 52
+OrgulloYPredjuicio, 006, 11.99, JaneAusten, Romance, 23
+CrimenYCastigo, 007, 13.99, FyodorDostoevsky, Ficción, 32
+LaSombraDelViento, 008, 15.99, CarlosRuizZafon, Misterio, 36
+Rayuela, 009, 10.99, JulioCortazar, Experimental, 155
+ElSeñorDeLosAnillos, 010, 24.99, JRR Tolkien, Fantasía, 117
+Fahrenheit451, 011, 8.99, RayBradbury, CienciaFicción, 3
+LosMiserables, 012, 18.99, VictorHugo, Clásico, 48
+ElCódigoDaVinci, 013, 16.99, DanBrown, Misterio, 105
+LaOdisea, 014, 12.99, Homero, Épico, 24
+MatarUnRuiseñor, 015, 14.99, HarperLee, Ficción, 31

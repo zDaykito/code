@@ -1,0 +1,16 @@
+nombre, id, precio, director, genero, duracion
+ElPadrino, 001, 14.99, FrancisFordCoppola, Drama, 175
+PulpFiction, 002, 12.99, QuentinTarantino, Crimen, 154
+CiudadDeDios, 003, 11.99, FernandoMeirelles, Crimen, 130
+ElSeñorDeLosAnillos:LaComunidadDelAnillo, 004, 17.99, PeterJackson, Fantasía, 178
+Interestelar, 005, 16.99, ChristopherNolan, CienciaFicción, 169
+ForrestGump, 006, 9.99, RobertZemeckis, Drama, 142
+Matrix, 007, 13.99, LanaWachowski, CienciaFicción, 136
+ElSilencioDeLosCorderos, 008, 15.99, JonathanDemme, Thriller, 118
+Titanic, 009, 14.99, JamesCameron, Romance, 195
+ElCaballeroDeLaNoche, 010, 18.99, ChristopherNolan, Acción, 152
+LaListaDeSchindler, 011, 16.99, StevenSpielberg, Biografía, 195
+LaLaLand, 012, 12.99, DamienChazelle, Musical, 128
+Gladiador, 013, 11.99, RidleyScott, Acción, 155
+ElLaberintoDelFauno, 014, 14.99, GuillermoDelToro, Fantasía, 118
+ElViajeDeChihiro, 015, 13.99, HayaoMiyazaki, Animación, 125

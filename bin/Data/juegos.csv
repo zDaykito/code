@@ -1,0 +1,16 @@
+nombre, id, precio, genero, plataforma, desarrollador
+Minecraft, 001, 29.99, Sandbox, Multiplataforma, Mojang
+CallOfDuty:Warzone, 002, 0, Shooter, Multiplataforma, Activision
+AnimalCrossing, 003, 49.99, Simulación, NintendoSwitch, Nintendo
+Fortnite, 004, 0, BattleRoyale, Multiplataforma, EpicGames
+Cyberpunk2077, 005, 59.99, RPG, Multiplataforma, CDProjekt
+GrandTheftAutoV, 006, 29.99, Acción, Multiplataforma, RockstarGames
+TheLegendOfZelda:BOTW, 007, 59.99, Aventura, NintendoSwitch, Nintendo
+FIFA22, 008, 59.99, Deportes, Multiplataforma, EA
+Overwatch, 009, 39.99, Shooter, Multiplataforma, Blizzard
+AmongUs, 010, 4.99, Party, Multiplataforma, Innersloth
+ApexLegends, 011, 0, BattleRoyale, Multiplataforma, RespawnEntertainment
+StardewValley, 012, 14.99, Simulación, Multiplataforma, ConcernedApe
+RainbowSixSiege, 013, 19.99, Shooter, Multiplataforma, Ubisoft
+AssassinCreed:Valhalla, 014, 59.99, Acción, Multiplataforma, Ubisoft
+LeagueOfLegends, 015, 0, MOBA, PC, RiotGames
